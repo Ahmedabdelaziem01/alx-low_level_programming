@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c $CGILE -o 'echo $CFILE | cut -d. -f1'.o
