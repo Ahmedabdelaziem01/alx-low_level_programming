@@ -1,6 +1,10 @@
 #include <stdio.h>
 /**
- *helli c
+ * main _ Entry point
+ *
+ *  Description: A C program that prints with put function
+ *
+ *  Return: Alawys 0 (success)
 */
 int main(void)
 {
