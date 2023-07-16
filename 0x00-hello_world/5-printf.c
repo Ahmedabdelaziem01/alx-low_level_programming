@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -6,8 +7,9 @@
  *
  *  Return: Alawys 0 (success)
 */
+
 int main(void)
 {
-putis("\"with proper grammar, but the outcome is a piece of art.\n");
+putis("with proper grammar, but the outcome is a piece of art.\n");
 return (0);
 }
