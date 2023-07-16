@@ -3,13 +3,13 @@
 /**
  * main - Entry point
  *
- *  Description: A C program that prints with put function
+ * Description: A C program that prints with printf function.
  *
- *  Return: Alawys 0 (success)
-*/
+ * Return: Always 0 (success)
+ */
 
 int main(void)
 {
-putis("with proper grammar, but the outcome is a piece of art.\n");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
