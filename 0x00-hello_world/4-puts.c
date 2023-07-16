@@ -1,6 +1,6 @@
 #include <stdioه.h>
 /**
- * main - Entry point
+ * main _ Entry point
  *
  *  Description: A C program that prints with put function
  *
